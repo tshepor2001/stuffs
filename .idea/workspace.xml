@@ -26,6 +26,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Diff.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/Diff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
+                <element signature="e#1170#1171#0" expanded="true" />
+                <element signature="e#1213#1214#0" expanded="true" />
+                <element signature="e#1247#1248#0" expanded="true" />
+                <element signature="e#1280#1281#0" expanded="true" />
+                <element signature="e#1309#1310#0" expanded="true" />
+                <element signature="e#1353#1354#0" expanded="true" />
+                <element signature="e#1389#1390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiffEngine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiffException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiffEngineService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngineService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="DiffRenderer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,59 +96,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Diff.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/Diff.java">
+      <file leaf-file-name="DiffRendererImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffRendererImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1013#1014#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1083#1084#0" expanded="true" />
-                <element signature="e#1137#1138#0" expanded="true" />
-                <element signature="e#1186#1187#0" expanded="true" />
-                <element signature="e#1241#1242#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiffEngineService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngineService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-240">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="120">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="UnsafeFieldAccessorImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/UnsafeFieldAccessorImpl.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnsafeObjectFieldAccessorImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/UnsafeObjectFieldAccessorImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,41 +141,11 @@
       <file leaf-file-name="DiffEngineServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/perago/techtest/test/DiffEngineServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="94">
+              <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -175,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/perago/techtest/Diff.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/perago/techtest/test/DiffEngineServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngineService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffRendererImpl.java" />
       </list>
     </option>
   </component>
@@ -339,7 +342,7 @@
       <recent name="com.perago.techtest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated">
+  <component name="RunManager" selected="JUnit.DiffEngineServiceTest">
     <configuration default="false" name="TestDifff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -399,6 +402,58 @@
       <option name="PACKAGE_NAME" value="com.perago.techtest.test" />
       <option name="MAIN_CLASS_NAME" value="com.perago.techtest.test.DiffEngineServiceTest" />
       <option name="METHOD_NAME" value="shouldThrowDiffExceptionWhenClassCannotBeInstantiated" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DiffEngineServiceTest.shouldReturnModifiedWhenCalledWithOriginalAndDiff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.perago.techtest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="technical-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.perago.techtest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.perago.techtest.test.DiffEngineServiceTest" />
+      <option name="METHOD_NAME" value="shouldReturnModifiedWhenCalledWithOriginalAndDiff" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DiffEngineServiceTest.shouldReturnNullIfDiffIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.perago.techtest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="technical-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.perago.techtest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.perago.techtest.test.DiffEngineServiceTest" />
+      <option name="METHOD_NAME" value="shouldReturnNullIfDiffIsNull" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -704,16 +759,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TestDifff" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest.shouldReturnModifiedWhenCalledWithOriginalAndDiff" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest.shouldReturnNullIfDiffIsNull" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestDifff" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestDifff" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest.shouldReturnNullIfDiffIsNull" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest.shouldReturnModifiedWhenCalledWithOriginalAndDiff" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated" />
       </list>
     </recent_temporary>
   </component>
@@ -734,35 +793,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 19h 28m 05s.xml">
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 22h 31m 00s.xml">
       <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 19h 28m 27s.xml">
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 22h 41m 03s.xml">
       <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 19h 31m 34s.xml">
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 22h 55m 35s.xml">
       <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 19h 36m 01s.xml">
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 22h 57m 42s.xml">
       <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 19h 36m 46s.xml">
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 22h 57m 59s.xml">
       <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 19h 37m 07s.xml">
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 23h 32m 37s.xml">
       <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest_shouldThrowDiffExceptionWhenClassCannotBeInstantiated - 2016.11.13 at 19h 40m 00s.xml">
-      <configuration name="DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated" configurationId="JUnit" />
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 23h 34m 22s.xml">
+      <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest_shouldThrowDiffExceptionWhenClassCannotBeInstantiated - 2016.11.13 at 19h 40m 40s.xml">
-      <configuration name="DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated" configurationId="JUnit" />
+    <history-entry file="DiffEngineServiceTest - 2016.11.13 at 23h 39m 35s.xml">
+      <configuration name="DiffEngineServiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest_shouldThrowDiffExceptionWhenClassCannotBeInstantiated - 2016.11.13 at 19h 41m 03s.xml">
-      <configuration name="DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated" configurationId="JUnit" />
+    <history-entry file="DiffEngineServiceTest_shouldReturnNullIfDiffIsNull - 2016.11.13 at 22h 30m 43s.xml">
+      <configuration name="DiffEngineServiceTest.shouldReturnNullIfDiffIsNull" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiffEngineServiceTest_shouldThrowDiffExceptionWhenClassCannotBeInstantiated - 2016.11.13 at 19h 43m 05s.xml">
-      <configuration name="DiffEngineServiceTest.shouldThrowDiffExceptionWhenClassCannotBeInstantiated" configurationId="JUnit" />
+    <history-entry file="DiffEngineServiceTest_shouldReturnNullIfDiffIsNull - 2016.11.13 at 22h 30m 54s.xml">
+      <configuration name="DiffEngineServiceTest.shouldReturnNullIfDiffIsNull" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -782,7 +841,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23819743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13590844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -824,7 +883,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngineService.java</url>
-          <line>25</line>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -842,12 +901,25 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngineService.java</url>
-          <line>29</line>
+          <line>12</line>
           <properties />
-          <option name="timeStamp" value="16" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngineService.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="21" />
+        </breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -872,25 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#243#244#0" expanded="false" />
-            <element signature="e#258#259#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -904,42 +957,6 @@
         <state relative-caret-position="120">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/perago/techtest/test/TestDifff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/Diff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,20 +992,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/perago/techtest/test/DiffEngineServiceTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/UnsafeFieldAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/UnsafeObjectFieldAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/perago/techtest/test/TestDifff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/perago/techtest/test/DiffEngineServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffEngineService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="615">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/Diff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/perago/techtest/DiffRendererImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding />
         </state>
       </provider>

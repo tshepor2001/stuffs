@@ -4,11 +4,13 @@ import org.apache.commons.lang3.SerializationUtils;
 
 import java.io.Serializable;
 import java.lang.reflect.Field;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class DiffEngineService implements DiffEngine {
     public <T extends Serializable> T apply(T original, Diff<?> diff) throws DiffException {
-        if ( diff != null && diff.getObj() == null) return null;
+        if ( diff == null || (diff != null && diff.getObj() == null)) return null;
 
         T clone = original == null ? (T) diff.getObj() : SerializationUtils.clone(original);
 
@@ -31,13 +33,13 @@ public class DiffEngineService implements DiffEngine {
         if (original != null) {
             tDiff = new Diff<>();
             tDiff.setObj(modified);
-            diffFields(original, modified, tDiff);
+            diff(original, modified, tDiff);
         } else if (modified != null) {
             try {
                 tDiff = new Diff<>();
                 tDiff.setObj(modified);
                 original = (T) modified.getClass().newInstance();
-                diffFields(original, modified, tDiff);
+                diff(original, modified, tDiff);
             } catch (InstantiationException e) {
                 throw new DiffException(e);
             } catch (IllegalAccessException e) {
@@ -47,18 +49,30 @@ public class DiffEngineService implements DiffEngine {
         return tDiff;
     }
 
-    private <T extends Serializable> void diffFields(T original, T modified, Diff<T> tDiff) throws DiffException {
+    private <T extends Serializable> void diff(T original, T modified, Diff<T> tDiff) throws DiffException {
+        List<String> fields = new ArrayList<>();
         if (modified != null) {
-            for (Field field : Arrays.asList(original.getClass().getDeclaredFields())) {
+            for (Field field : Arrays.asList(modified.getClass().getDeclaredFields())) {
                 field.setAccessible(true);
                 try {
-                    if (field.get(modified) != null && !field.get(modified).equals(field.get(original))) {
-                        tDiff.getFields().add(field.getName());
+
+                    if (valueChanged(original, modified, field)) {
+                        fields.add(field.getName());
+                        if (field.getType().getName().equals(modified.getClass().getName())) {
+                            tDiff.setInner(calculate(null, (T)field.get(modified)));
+                            tDiff.getInner().setParent(field.getName());
+                        }
                     }
                 } catch (Exception e) {
                     throw new DiffException(e);
                 }
             }
         }
+        tDiff.getFields().addAll(fields);
+    }
+
+
+    private <T extends Serializable> boolean valueChanged(T original, T modified, Field field) throws IllegalAccessException {
+        return field.get(modified) != null && (original == null  || !field.get(modified).equals(field.get(original)));
     }
 }

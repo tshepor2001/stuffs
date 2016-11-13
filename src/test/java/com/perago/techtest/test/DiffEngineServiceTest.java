@@ -50,8 +50,6 @@ public class DiffEngineServiceTest {
         assertThat(service.calculate(null, modified()).getFields(), is(allFields()));
     }
 
-
-
     private List<String> allFields() {
         List<String> changedFields = new ArrayList<>();
         changedFields.add("firstName");
@@ -74,6 +72,11 @@ public class DiffEngineServiceTest {
         Person person = modified();
         diff.setObj(person);
         diff.getFields().addAll(changedFields());
+        Diff<Person> friend = new Diff<>();
+        friend.setObj(person.getFriend());
+        friend.setParent("friend");
+        friend.getFields().add("firstName");
+        diff.setInner(friend);
         return diff;
     }
 
@@ -102,4 +105,16 @@ public class DiffEngineServiceTest {
 
 
     //#Apply
+
+
+    @Test
+    public void shouldReturnModifiedWhenCalledWithOriginalAndDiff() throws Exception {
+        assertThat(service.apply(original(), diffObject()), is(modified()));
+    }
+
+    @Test
+    public void shouldReturnNullIfDiffIsNull() throws Exception {
+        assertNull(service.apply(original(), null));
+    }
+
 }

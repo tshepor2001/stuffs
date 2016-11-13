@@ -9,8 +9,11 @@ import java.util.List;
 
 public class Diff<T extends Serializable> {
 
+    private String parent;
     private List<String> fields;
     private T obj;
+
+    private Diff<T> inner;
 
     public List<String> getFields() {
         if (fields == null) {
@@ -40,8 +43,26 @@ public class Diff<T extends Serializable> {
     @Override
     public String toString() {
         return "Diff{" +
-                "fields=" + fields +
+                "parent='" + parent + '\'' +
+                ", fields=" + fields +
                 ", obj=" + obj +
+                ", inner=" + inner +
                 '}';
+    }
+
+    public Diff<T> getInner() {
+        return inner;
+    }
+
+    public void setInner(Diff<T> inner) {
+        this.inner = inner;
+    }
+
+    public String getParent() {
+        return parent;
+    }
+
+    public void setParent(String parent) {
+        this.parent = parent;
     }
 }
